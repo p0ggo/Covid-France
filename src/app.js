@@ -93,7 +93,7 @@ let app = new Vue({
                         pointStyle: 'cross',
                         pointHitRadius: 6
                     }, {
-                        label: `Nombre de mort en ${this.country}`,
+                        label: `dodo pd ? en ${this.country}`,
                         backgroundColor: 'transparent',
                         borderColor: '#9b0000',
                         data: deaths,
